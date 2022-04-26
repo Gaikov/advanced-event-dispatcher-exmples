@@ -1,0 +1,22 @@
+{
+  "name": "event-dispatcher-example",
+  "version": "1.0.0",
+  "description": "Advanced event dispatcher example",
+  "main": "js-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "events",
+    "dispatcher",
+    "observer",
+    "eventbus",
+    "pattern",
+    "reactor"
+  ],
+  "author": "Roman Gaikov",
+  "license": "ISC",
+  "devDependencies": {
+    "advanced-event-dispatcher": "^1.0.0-rc.10"
+  }
+}
