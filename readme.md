@@ -1,5 +1,10 @@
 # Examples of using "advanced-event-dispatcher" npm module
 
+### Before launch
+```text
+npm run install
+```
+
 ### Haw to launch
 ```text
 npm run launch
