@@ -1,5 +1,8 @@
 //import {BaseEvent, EventDispatcher} from "advanced-event-dispatcher";
 const {BaseEvent, EventDispatcher} = require("advanced-event-dispatcher");
+console.log("====================================================================");
+console.log("*                  Launching JavaScript example                    *");
+console.log("====================================================================");
 
 class Event extends BaseEvent {
 
